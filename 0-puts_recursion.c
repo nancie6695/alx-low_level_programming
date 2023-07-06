@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _puts_recursion - function like puts();
- * s: input
+ *@s: input
  * Return:0
  */
 void _puts_recursion(char *s)
